@@ -1,0 +1,276 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Favoritos",
+            "descricao": "Seleção dos meus Vídeos Favoritos do Youtube",
+            "cor": "#930606"
+        },
+        {
+            "id": 2,
+            "nome": "Acústico MTV",
+            "descricao": "Seleção de Apresentações Acústicas do Programa MTV Unplugged",
+            "cor": "#6BD1FF"        
+        },
+        {
+            "id": 3,
+            "nome": "Sertanejo",
+            "descricao": "Seleção de Apresentações de Cantores Sertanejos",
+            "cor": "#00C86F"        
+        },
+        {
+            "id": 4,
+            "nome": "Forró",
+            "descricao": "Seleção de Apresentações de Cantores de Forró",
+             "cor": "#B30092"        
+        },
+        {
+            "id": 5,
+            "nome": "Pagode",
+            "descricao": "Seleção de Apresentações de Grupos de Pagode",
+            "cor": "#FF69B4"      
+        },
+        {
+            "id": 6,
+            "nome": "VJ/DJ Magrão",
+            "descricao": "Seleção de Remix's do VJ/DJ Magrão",
+            "cor": "#0000FF"        
+        },
+        {
+            "id": 7,
+            "nome": "Funk",
+            "descricao": "Seleção de Apresentações de Cantores de Funk",
+            "cor": "#FF8C00"        
+        },
+        {
+            "id": 8,
+            "nome": "Rap",
+            "descricao": "Seleção de Apresentações de Cantores de Rap",
+            "cor": "#000000"        
+        },
+        {
+            "id": 9,
+            "nome": "Reggae",
+            "descricao": "Seleção de Apresentações de Cantores de Reggae",
+            "cor": "#008000"        
+        },
+        {
+            "id": 10,
+            "nome": "Pop",
+            "descricao": "Seleção de Apresentações de Cantores Pop",
+            "cor": "#FFD700"       
+        },
+        {
+            "id": 11,
+            "nome": "Samba",
+            "descricao": "Seleção de Apresentações de Cantores de Samba",
+            "cor": "#FF1493"        
+        },
+        {
+            "id": 12,
+            "nome": "MPB",
+            "descricao": "Seleção de Apresentações de Cantores de MPB",
+            "cor": "#8B4513"        
+        },
+        {
+            "id": 13,
+            "nome": "Rock",
+            "descricao": "Seleção de Apresentações de Bandas de Rock",
+            "cor": "#FFD700"        
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "categoriaId": 1,
+            "titulo": "Roupa Nova - 40 Anos",
+            "url": "https://www.youtube.com/embed/i7j0bw5TonI?si=zFTC72My-Jc_Ahfg"
+        },
+        {
+            "id": 2,
+            "categoriaId": 2,
+            "titulo": "Sandy & Júnior",
+            "url": "https://www.youtube.com/embed/PJ-gKCO55zM?si=xiEbJwAXz7uJa-8C"
+        },
+        {
+            "id": 3,
+            "categoriaId": 2,
+            "titulo": "Kit Abelha",
+            "url": "https://www.youtube.com/embed/FNCR0x81-4I?si=3ow6CZlLFX9AEHU6"
+        },
+        {
+            "id": 4,
+            "categoriaId": 2,
+            "titulo": "Cássia Eller",
+            "url": "https://www.youtube.com/embed/KflBDWsy2dw?si=-RZL1Mr8GrSVCIf9"
+        },
+        {
+            "id": 5,
+            "categoriaId": 2,
+            "titulo": "Legião Urbana",
+            "url": "https://www.youtube.com/embed/PVlmXiNl0Oc?si=kLUepD9i5MF-Tfxy"
+        },
+        {
+            "id": 6,
+            "categoriaId": 2,
+            "titulo": "Ira",
+            "url": "https://www.youtube.com/embed/5SUFrXRHu40?si=DDAWBG0j0ECdkXef"
+        },
+        {
+            "id": 7,
+            "categoriaId": 2,
+            "titulo": "Capital Inicial",
+            "url": "https://www.youtube.com/embed/uSMmbICAC8s?si=etFmWcfN0ukG_BHp"
+        },
+        {
+            "id": 8,
+            "categoriaId": 2,
+          "titulo": "Engenheiros do Hawaii",
+          "url": "https://www.youtube.com/embed/9BgiIfaXTtA?si=ScXJoU-D0bzcG8N5"
+        },
+        {
+            "id": 9,
+            "categoriaId": 3,
+            "titulo": "Jorge e Matheus - Simples Assim",
+             "url": "https://www.youtube.com/embed/LS_IsZnbi8o?si=RqlqypPlnUh3UI9j"
+        },
+        {
+            "id": 10,
+            "categoriaId": 3,
+            "titulo": "Luana Prado - Raiz",
+          "url": "https://www.youtube.com/embed/Z_gJRWg6gyY?si=lQqBIENqjTr6jR_x"
+        },
+        {
+            "id": 11,
+            "categoriaId": 3,
+            "titulo": "MARÍLIA MENDONÇA - LIVE SERENATA",
+          "url": "https://www.youtube.com/embed/WnBC7piwvLI?si=kQ8PTsoiaKOzoGod"
+        },
+        {
+            "id": 12,
+            "categoriaId": 3,
+            "titulo": "Marília, Maiara e Maraisa + Convidados - Modão",
+             "url": "https://www.youtube.com/embed/JdgUJcxQWQw?si=kbQySnnj7UAyWanZ"
+        },
+        {
+            "id": 13,
+            "categoriaId": 3,
+            "titulo": "Don & Juan - Nos bares da vida",
+          "url": "https://www.youtube.com/embed/N4xGEMeCbZo?si=w_zawuh5h-Q7M-f3"
+        },
+        {
+            "id": 14,
+            "categoriaId": 3,
+             "titulo": "Don & Juan - Nos bares da vida 2",
+          "url": "https://www.youtube.com/embed/BnRdbrUjTd8?si=iTkWZAgPOWwMCH08"
+        },
+        {
+            "id": 15,
+            "categoriaId": 4,
+            "titulo": "Calcinha Preta - Vol 1 e 2",
+             "url": "https://www.youtube.com/embed/FVv591CPi-U?si=aM8Dw_t9DHNROksR"
+        },
+        {
+            "id": 16,
+            "categoriaId": 4,
+            "titulo": "Calcinha Preta - Como não amar 2021",
+            "url": "https://www.youtube.com/embed/0vc8s8JQbrQ?si=106jULon5mCjtg5U"
+        },
+        {
+            "id": 17,
+            "categoriaId": 4,
+            "titulo": "Calcinha Preta - Atemporal 2024",
+            "url": "https://www.youtube.com/embed/esn6E1nPW_c?si=C1jjX3LFl-PnDHbO"
+        },
+        {
+            "id": 18,
+            "categoriaId": 4,
+            "titulo": "Magníficos - DVD Vol 1",
+             "url": "https://www.youtube.com/embed/zEFQcGWTvO4?si=iKpN_88Im7QlCcy5"
+        },
+        {
+            "id": 19,
+            "categoriaId": 4,
+            "titulo": "Magníficos - DVD na praia",
+            "url": "https://www.youtube.com/embed/XIt7hxLc_Ek?si=TUucm1rgcLyP3IZo"
+        },
+        {
+            "id": 20,
+            "categoriaId": 4,
+            "titulo": "Batista Lima & Edson Lima - Live",
+            "url": "https://www.youtube.com/embed/JJxpHbf7PqA?si=jWDRR1q0v6-vKuH5"
+        },
+        {
+            "id": 21,
+            "categoriaId": 5,
+            "titulo": "Sorriso Maroto - Eu gosto",
+            "url": "https://www.youtube.com/embed/VrTm4M6qAA4?si=s9w5rbxCBWpw3O0I"
+        },
+        {
+            "id": 22,
+            "categoriaId": 5,
+            "titulo": "Thiaguinho - Meu nome é Thiago André",
+            "url": "https://www.youtube.com/embed/uyc-CGQ421E?si=NSpZsx7m-28tFoSW"
+        },
+        {
+            "id": 23,
+            "categoriaId": 5,
+            "titulo": "Ferrugem - 10 anos",
+            "url": "https://www.youtube.com/embed/kMnaZAgJGVU?si=P-vA1jloSrSo_Ima"
+        },
+        {
+            "id": 24,
+            "categoriaId": 5,
+            "titulo": "Live Irmãos - Alexandre Pires e Seu Jorge",
+            "url": "https://www.youtube.com/embed/PubdXt8Qy-I?si=TP1kidQvXao-U5wX"
+        },
+        {
+            "id": 25,
+            "categoriaId": 5,
+            "titulo": "Gigantes do Samba",
+             "url": "https://www.youtube.com/embed/UPxGfLnUVkA?si=_vfUr-x3ncSMZAce"
+        },
+        {
+            "id": 26,
+            "categoriaId": 5,
+            "titulo": "Sambô - Sambô ao Vivo",
+            "url": "https://www.youtube.com/embed/n_QKFb4OpNo?si=Qgqjti-RcyJeswQC"
+        },
+        {
+            "id": 27,
+            "categoriaId": 6,
+            "titulo": "80´s Megamix",
+            "url": "https://www.youtube.com/embed/--p4GrNCBT0?si=G5HreszpQDdmLp1O"
+        },
+        {
+            "id": 28,
+            "categoriaId": 6,
+            "titulo": "80´s Megamix Vol 2",
+            "url": "https://www.youtube.com/embed/Q_Uo8VU8YXI?si=DE2nWwUEbt9nixVD"
+        },
+        {
+            "id": 29,
+            "categoriaId": 6,
+            "titulo": "90´s Megamix",
+            "url": "https://www.youtube.com/embed/NLt-ifk0GS0?si=Q4h8iuA3zczSvNZ0"
+        },
+        {
+            "id": 30,
+            "categoriaId": 6,
+            "titulo": "90´s Megamix Vol 2",
+             "url": "https://www.youtube.com/embed/6Pv3HUcTels?si=7Qpybme1FuV9Bznb"
+        },
+        {
+            "id": 32,
+            "categoriaId": 6,
+            "titulo": "Festa Mix Vol 1",
+            "url": "https://www.youtube.com/embed/ODkkQ4_yHzk?si=Zxhwh0PNeODs6Rzy"
+        },
+        {
+            "id": 33,
+            "categoriaId": 6,
+            "titulo": "Festa Mix Vol 3",
+            "url": "https://www.youtube.com/embed/xUQbtuVH_uU?si=rnVcos-c3J2BEp7V"
+        }
+    ]
+}
