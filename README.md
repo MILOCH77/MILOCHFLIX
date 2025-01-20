@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Aluraflix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aluraflix é uma aplicação de catálogo de vídeos inspirada, projetada para gerenciar e visualizar vídeos organizados por categorias. Este projeto faz parte dos desafios do programa Oracle Next Education (ONE).
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## **Recursos**
+- Listagem de vídeos por categorias.
+- CRUD completo: Criar, Ler, Atualizar e Excluir vídeos.
+- Uso de uma API REST para armazenamento de vídeos.
+- Design responsivo e estilização com `styled-components`.
+- Contexto global para gerenciamento do estado dos vídeos.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## **Tecnologias Utilizadas**
+- **React**: Biblioteca para construir interfaces de usuário.
+- **Axios**: Gerenciamento de solicitações HTTP.
+- **React Icons**: Ícones para botões de edição e exclusão.
+- **Styled-components**: Estilização de componentes.
+- **MockAPI**: Simulação de uma API REST.
+- **React Router**: Navegação na aplicação (se aplicável).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## **Instalação**
+Siga estas etapas para instalar e executar o projeto localmente:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/aluraflix.git
+   cd aluraflix
+   ```
 
-### `npm run build`
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Execute a aplicação:
+   ```bash
+   npm start
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## **Uso**
+1. Adicione um vídeo fornecendo o título, link e categoria.
+2. Edite os vídeos diretamente pela interface usando o ícone de edição.
+3. Exclua vídeos usando o ícone de lixeira com confirmação de segurança.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
